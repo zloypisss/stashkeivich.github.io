@@ -28,7 +28,7 @@ document.querySelector('.add-toast').onclick = () => {
       })
        /* Copy text into clipboard */
     navigator.clipboard.writeText
-    ("usmanskomorokhov@gmail.com");
+    ("rhdhhfh23@gmail.com");
         
 }
 document.querySelector('#add-toast').onclick = () => {
@@ -41,6 +41,6 @@ document.querySelector('#add-toast').onclick = () => {
       })
        /* Copy text into clipboard */
     navigator.clipboard.writeText
-    ("skomorokhov");
+    ("likerqq11");
 }
 
